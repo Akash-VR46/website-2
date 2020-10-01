@@ -11,6 +11,8 @@ AskOmics website, build with [Nikola](https://getnikola.com/)
 
 ```bash
 # Debian/Ubuntu
+sudo apt-get update
+sudo apt-get upgrade
 sudo apt install -y git make python3 python3-venv
 # Fedora
 sudo dnf install -y git make python3 python3-virtualenv
